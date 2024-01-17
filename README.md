@@ -3,6 +3,7 @@
 ## Setup
 1. Klicka på gubben och signa in med ditt konto för Setting sync
 2. npm install -g nodemon (ifall du vill arbeta med nodemon)
+3. Klicka på .devcontainer/prov-setup.js och välj 
 
 ## QuickRef
 De ENDA hjälpmedel du får använda är nedanstående
